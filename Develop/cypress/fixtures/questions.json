@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is JavaScript?",
+    "options": [
+      "Programming Language",
+      "Framework",
+      "Database",
+      "Operating System"
+    ],
+    "answer": "Programming Language"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which of these is a JavaScript framework?",
+    "options": ["Django", "Flask", "React", "Rails"],
+    "answer": "React"
+  },
+  {
+    "question": "Which of these is a CSS preprocessor?",
+    "options": ["Sass", "Webpack", "Babel", "TypeScript"],
+    "answer": "Sass"
+  },
+  {
+    "question": "What is the primary purpose of a database?",
+    "options": [
+      "To store and organize data",
+      "To style web pages",
+      "To process logic",
+      "To serve web pages"
+    ],
+    "answer": "To store and organize data"
+  },
+  {
+    "question": "Which of these is NOT a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "Cassandra", "CouchDB"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "Which HTTP method is used to update data on a server?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "PUT"
+  },
+  {
+    "question": "What technology is used to manage packages in Node.js?",
+    "options": ["NPM", "PIP", "Composer", "Maven"],
+    "answer": "NPM"
+  },
+  {
+    "question": "Which of these is a version control system?",
+    "options": ["Git", "Jenkins", "Docker", "Kubernetes"],
+    "answer": "Git"
+  }
+]
