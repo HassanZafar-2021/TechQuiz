@@ -34,6 +34,11 @@ This interactive quiz platform makes learning technical concepts engaging and ac
 
 Start Quiz and answer questions and can redo quiz if need be.
 
+LocalHost starts on PORT 3000 for client and 3001 for server.
+
+![image](https://github.com/user-attachments/assets/b40d50de-57a6-462d-9be5-892b756f9f7c)
+
+
 ## Credits
 
 No Collaborators.
